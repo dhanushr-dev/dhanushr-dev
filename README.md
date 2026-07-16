@@ -9,6 +9,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
+  <a href="https://dhanushr-portfolio1.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF5722?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="mailto:dhanushrmdy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-dhanushrmdy@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
@@ -20,6 +24,7 @@
 
 ### 🧑💻 About Me
 
+- 🌐 Portfolio: [dhanushr-portfolio1.netlify.app](https://dhanushr-portfolio1.netlify.app/)
 - 🎓 B.E. Computer Science Engineering — G Madegowda Institute of
   Technology, Mandya, Karnataka (2026)
 - 💼 Actively seeking **Java Full Stack Developer** /
@@ -99,6 +104,10 @@ Feel free to reach out!
 <p align="center">
   <a href="https://www.linkedin.com/in/dhanushr-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-dhanushr--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://dhanushr-portfolio1.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF5722?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:dhanushrmdy@gmail.com">
